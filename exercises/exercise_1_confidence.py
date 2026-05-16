@@ -4,6 +4,9 @@ Build a small LangGraph that fetches a PR, analyzes it, then routes to one of
 three terminal nodes by confidence. Goal: see the three branches print
 different messages on different PRs.
 
+- **Student:** Hoang Dinh Duy Anh
+- **Student ID:** 2A202600064
+
 """
 
 from __future__ import annotations

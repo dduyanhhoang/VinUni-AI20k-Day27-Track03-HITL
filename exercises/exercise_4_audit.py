@@ -21,6 +21,10 @@ Approach:
 The completed implementation emits the audit helper row plus one AuditEntry
 per node for analyze/route/commit/auto_approve/synthesize, and two each for
 human_approval and escalate (before + after the interrupt).
+
+- **Student:** Hoang Dinh Duy Anh
+- **Student ID:** 2A202600064
+
 """
 
 from __future__ import annotations

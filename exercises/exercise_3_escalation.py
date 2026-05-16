@@ -2,6 +2,10 @@
 
 When confidence < 60%, the agent doesn't ask approve/reject — it asks specific
 clarifying questions and then synthesizes a refined review from the answers.
+
+- **Student:** Hoang Dinh Duy Anh
+- **Student ID:** 2A202600064
+
 """
 
 from __future__ import annotations

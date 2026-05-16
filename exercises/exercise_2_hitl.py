@@ -3,6 +3,10 @@
 Starting from exercise 1, turn the `human_approval` node from a placeholder
 into real HITL: call interrupt() with a payload containing diff + reasoning,
 then resume the graph with Command(resume=<user choice>).
+
+- **Student:** Hoang Dinh Duy Anh
+- **Student ID:** 2A202600064
+
 """
 
 from __future__ import annotations
